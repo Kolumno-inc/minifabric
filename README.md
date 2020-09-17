@@ -34,12 +34,12 @@ If you like to learn more before jumping in, Watch the [series of 6 videos](http
 
 ##### If you are using Linux (Ubuntu, Fedora, CentOS), or OS X
 ```
-mkdir -p ~/mywork && cd ~/mywork && curl -o minifab -sL https://tinyurl.com/twrt8zv && chmod +x minifab
+mkdir -p ~/mywork && cd ~/mywork && curl -o minifab -sL https://tinyurl.com/y2o3xj5j && chmod +x minifab
 ```
 
 ##### If you are using Windows 10
 ```
-mkdir %userprofile%\mywork & cd %userprofile%\mywork & curl -o minifab.cmd -sL https://tinyurl.com/yb3ouwm3
+mkdir %userprofile%\mywork & cd %userprofile%\mywork & curl -o minifab.cmd -sL https://tinyurl.com/y3mtz2cz
 ```
 
 ##### Make minifab available system wide
